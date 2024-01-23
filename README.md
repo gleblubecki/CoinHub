@@ -1,0 +1,1 @@
+CoinHub is a mobile application created as part of Andersen's iOS Intensive. The app provides users with a user-friendly interface to track current cryptocurrency rates, simulate buying and selling cryptocurrency, and register an account for personalized settings. CoinHub allows users to analyze market data and stay up-to-date.
