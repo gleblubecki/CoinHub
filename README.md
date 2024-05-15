@@ -8,4 +8,4 @@ CoinHub is a mobile application created as part of Andersen's iOS Intensive. The
   <img src="https://github.com/gleblubecki/CoinHub/assets/102920202/280b054a-c2d4-4988-bac7-af9cbe31d807" width="100%">
 </div>
 
-The **Realm** database from **MongoDB** and API from **CoinGekko** were used to create the application.
+The **Realm** database from **MongoDB** and API from **CoinGekko** were used to create this application.
